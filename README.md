@@ -88,9 +88,9 @@
 │   ├── eval_cloud_fraction.py        # 云量统计与去云效果评估程序
 │   ├── project_ground_truth.py       # 真值数据的坐标投影转换与匹配
 │   └── 📂 core/                      
-│       ├── cloud_utils.py            # 云掩膜(Cloud Mask)处理工具
+│       ├── cloud_utils.py            # 云掩膜处理工具
 │       ├── constants.py              # 评估阈值与常量配置
-│       └── validation_utils.py       # 评估指标（如RMSE, MAE等）计算算法
+│       └── validation_utils.py       # 评估指标计算算法
 │
 └── 📂 data/                          # 数据集与脚本存储
     ├── 📂 2024/                      # 样例年度(2024)数据与获取脚本
