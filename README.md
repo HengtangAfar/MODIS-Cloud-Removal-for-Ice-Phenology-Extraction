@@ -1,3 +1,6 @@
+The article is to be published in the Springer CCIS series and indexed in the EI Compendex database in August 2026.
+
+
 #  🛰️☁️🧊 基于MODIS去云算法的湖冰物候提取
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
