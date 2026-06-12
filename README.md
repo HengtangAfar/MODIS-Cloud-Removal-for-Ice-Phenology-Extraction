@@ -1,12 +1,16 @@
-The article is to be published in the Springer CCIS series and indexed in the EI Compendex database in August 2026.
-
-
 #  🛰️☁️🧊 基于MODIS去云算法的湖冰物候提取
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![GDAL](https://img.shields.io/badge/GDAL-3.0%2B-green)
 ![Rasterio](https://img.shields.io/badge/Rasterio-1.2%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-orange)
+
+---
+**The article is to be published in the Springer CCIS series and indexed in the EI Compendex database in August 2026.**
+
+**论文将于2026年8月在Springer CCIS发表并于EI检索。**
+
+---
 
 高纬度大型湖泊（例如贝加尔湖）在冬春季节经常被厚厚的云层遮挡，导致传统光学遥感（如 MODIS）很难获取连续、清晰的冰面观测数据，影响到时间精度要求高的物候提取。本项目通过对MODIS积雪产品进行去云处理，从而提取湖冰物候。
 
