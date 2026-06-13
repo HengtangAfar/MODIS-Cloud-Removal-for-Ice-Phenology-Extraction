@@ -6,9 +6,12 @@
 ![License](https://img.shields.io/badge/License-MIT-orange)
 
 ---
-**The article is to be published in the Springer CCIS series and indexed in the EI Compendex database in August 2026.**
+**The article is to be published in the Springer CCIS series and indexed in the EI Compendex database in August 2026. The following is the poster presented at 3rd Cross-Disciplinary Forum
+on Artificial Intelligence and Remote Sensing (Changsha, Hunan, China).**
 
-**论文将于2026年8月在Springer CCIS发表并于EI检索。**
+**论文将于2026年8月在Springer CCIS发表并于EI检索。以下是在第三届人工智能与遥感科学交叉论坛（湖南长沙）上展示的墙报。**
+
+![Poster](poster.png)
 
 ---
 
