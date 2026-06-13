@@ -6,14 +6,6 @@
 ![License](https://img.shields.io/badge/License-MIT-orange)
 
 ---
-**The article is to be published in the Springer CCIS series and indexed in the EI Compendex database in August 2026. The following is the poster presented at 3rd Cross-Disciplinary Forum
-on Artificial Intelligence and Remote Sensing (Changsha, Hunan, China).**
-
-**论文将于2026年8月在Springer CCIS发表并于EI检索。以下是在第三届人工智能与遥感科学交叉论坛（湖南长沙）上展示的墙报。**
-
-![Poster](poster.png)
-
----
 
 高纬度大型湖泊（例如贝加尔湖）在冬春季节经常被厚厚的云层遮挡，导致传统光学遥感（如 MODIS）很难获取连续、清晰的冰面观测数据，影响到时间精度要求高的物候提取。本项目通过对MODIS积雪产品进行去云处理，从而提取湖冰物候。
 
@@ -21,6 +13,7 @@ on Artificial Intelligence and Remote Sensing (Changsha, Hunan, China).**
 
 同时，请注意，**本项目的工程架构重构、部分代码与文档编写借助 AI 辅助完成**。请在使用或参考核心算法应用于其他研究区时，结合实际情况自行复核代码逻辑并进行参数微调。
 
+本项目的研究论文将于2026年8月在Springer CCIS发表并于EI检索。论文在**第三届人工智能与遥感科学交叉论坛**（湖南长沙）上展示的墙报被附于本文档末尾。
 
 
 ## ✨ 核心内容
@@ -116,3 +109,11 @@ on Artificial Intelligence and Remote Sensing (Changsha, Hunan, China).**
 
 ## 🤝 贡献与反馈
 如果你在复现过程中遇到任何路径解析或环境配置的问题，欢迎提交 Issue。如果你觉得这个项目对你的RS/GIS研究有启发，不妨点个STAR ⭐️ 鼓励支持一下！
+
+---
+**The article is to be published in the Springer CCIS series and indexed in the EI Compendex database in August 2026. The following is the poster presented at 3rd Cross-Disciplinary Forum
+on Artificial Intelligence and Remote Sensing (Changsha, Hunan, China).**
+
+**论文将于2026年8月在Springer CCIS发表并于EI检索。以下是在第三届人工智能与遥感科学交叉论坛（湖南长沙）上展示的墙报。**
+
+![Poster](poster.png)
